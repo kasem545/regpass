@@ -4,8 +4,6 @@ This is a Bash script that interactively filters passwords from a wordlist file 
 
 ## 🚀 Features
 
-- Interactive prompts with defaults
-- Tab-completion for file path input
 - Filters based on:
   - Minimum and maximum length
   - Uppercase letter requirement
